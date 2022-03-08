@@ -110,6 +110,8 @@ else
   export EDITOR='mvim'
 fi
 
+export TERM=xterm-256color
+
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
